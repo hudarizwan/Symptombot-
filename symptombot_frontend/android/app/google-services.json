@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979234108579",
+    "project_id": "symptombot-e4e2d",
+    "storage_bucket": "symptombot-e4e2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979234108579:android:a0235450d692e9b7e2bb16",
+        "android_client_info": {
+          "package_name": "com.example.symptom_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWn4Bw4JrXMdvmsgbCPrTEMAw9CtRgbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979234108579:android:826a83dcd7d8dc49e2bb16",
+        "android_client_info": {
+          "package_name": "com.example.symptombot2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWn4Bw4JrXMdvmsgbCPrTEMAw9CtRgbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
