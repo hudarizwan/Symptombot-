@@ -317,6 +317,5 @@ python app.py
 ---
 
 ## 👥 Contributors & Credits
-- **Project:** 22FA-001-CS Mobile Application Development (MAD) Project
 - **Application:** SymptomBot+ Health & Triage System
 - **Technologies:** Flutter, Dart, Python, Flask, Scikit-learn, Firebase, Google Maps Platform
