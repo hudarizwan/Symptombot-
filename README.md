@@ -1,4 +1,4 @@
-# 🩺 SymptomBot+ (MAD Project)
+# 🩺 SymptomBot+
 
 > **An AI-powered clinical triage, symptom analysis, and healthcare assistant.**  
 > Built with a **Flutter cross-platform frontend** and a **Python/Flask Machine Learning backend**.
